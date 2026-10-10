@@ -1,6 +1,5 @@
 # Sets in Formal Methods - classroom demo
 Python 3
-
 ## Install the plotting libraries once:
 `python -m pip install matplotlib matplotlib-venn`
 ## 1. How to run:
