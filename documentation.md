@@ -3,9 +3,9 @@ Python 3
 
 ## Install the plotting libraries once:
 `python -m pip install matplotlib matplotlib-venn`
-### 1. How to run:
+## 1. How to run:
 `python demo.py`
-## 2. قبل از خواندن کد، باید مسئله را بفهمیم
+## 2. باید مسئله را بفهمیم
 
 فرض کن دانشگاه می‌خواهد اطلاعات دانشجویان ثبت‌نام‌شده در دو درس را بررسی کند.
 
