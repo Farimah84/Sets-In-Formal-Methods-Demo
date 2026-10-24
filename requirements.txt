@@ -1,2 +1,2 @@
-Python 3.13.15 #Python 3.9
-matplotlib-venn
+Python 3.13.15 # Python 3.9
+# matplotlib-venn for Venn diagram
